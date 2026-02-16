@@ -21,7 +21,7 @@
         },
         "text_A9kNra": {
           "type": "text",
-          "name": "Hightlight by connect data source",
+          "name": "Hightlight by connecting data source",
           "disabled": true,
           "settings": {
             "text": "{{ product.metafields.custom.hightlight.value }}",
